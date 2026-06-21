@@ -1,33 +1,17 @@
-# Comet: Focus Study Timer
+# comet
 
-Comet is a clean and minimal **Pomodoro-style study timer** built to help
-students stay focused, manage study sessions, and track productive time.
+a pomodoro timer i built to make study sessions less chaotic and a little more productive. simple, clean, and does exactly what it needs to.
 
-The project focuses on **simple UI, smooth timer logic, and distraction-free experience**.
+### built with
 
----
-
-## Features
-
-- Start / pause / reset study timer  
-- Focus and break session flow  
-- Real-time progress indication  
-- Clean and responsive interface  
-- Lightweight and fast performance  
-
----
-
-## Tech Stack
-
-- React  
-- TypeScript  
-- Vite  
-- Tailwind CSS  
-
----
-
-## Run Locally
+* react
+* typescript
+* vite
+* tailwind css
 
 ```bash
 npm install
 npm run dev
+```
+
+> built while learning react and frontend development.
